@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Whiscash 4
+WaterPulse AquaTail ZenHeadbutt Earthquake
+Sudowoodo 4
+RockThrow WoodHammer HammerArm StoneEdge
+Quagsire 4
+Earthquake Toxic AquaTail WaterGun

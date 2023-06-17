@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Dustox 4
+Toxic BugBuzz BugBite Tackle
+Beautifly 4
+BugBuzz BugBite AirCutter StunSpore
+Heracross 4
+Tackle AerialAce BrickBreak Megahorn

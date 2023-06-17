@@ -1,0 +1,14 @@
+3
+Venusaur 4
+PoisonPowder VineWhip SeedBomb SolarBeam
+Charizard 4
+Ember Flamethrower DragonBreath AirSlash
+Blastoise 4
+FlashCannon WaterGun WaterPulse AquaTail
+3
+Infernape 4
+Ember Flamethrower FlameWheel CloseCombat
+Flareon 4
+Bite Swift Ember LavaPlume
+Rapidash 4
+TakeDown Ember FlameCharge FireBlast

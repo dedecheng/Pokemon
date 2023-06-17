@@ -1,0 +1,27 @@
+﻿  Game.cpp
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(200,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(253,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(637,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(692,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(693,34): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(760,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(815,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(816,34): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(863,30): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(875,30): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(894,28): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(906,28): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(1015,14): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Game.cpp(1015,57): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  main.cpp
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\main.cpp(79,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Player.cpp
+  Pokemon.cpp
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Pokemon.cpp(191,9): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Pokemon.cpp(296,9): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Skill.cpp
+  Sound.cpp
+  Variable.cpp
+  正在產生程式碼...
+C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\Pokemon.cpp(259): warning C4715: 'Pokemon::getSkill': 不是所有控制路徑都傳回值
+  OnWorking.vcxproj -> C:\Users\姚睿銘\Desktop\Group05_P3_ver01\project\x64\Debug\OnWorking.exe

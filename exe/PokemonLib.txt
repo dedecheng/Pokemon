@@ -1,0 +1,45 @@
+Venusaur
+2 Grass Poison
+187 147 148 167 167 145
+Charizard
+2 Fire Flying
+185 149 143 177 150 167
+Blastoise
+1 Water
+186 148 167 150 172 143
+Dustox
+2 Bug Poison
+167 112 134 112 156 128
+Beautifly
+2 Bug Flying
+167 134 112 167 112 128
+Heracross
+2 Bug Fighting
+187 194 139 101 161 150
+Whiscash
+2 Water Ground
+217 143 137 140 135 123
+Sudowoodo
+1 Rock
+177 167 183 90 128 90
+Quagsire
+2 Water Ground
+202 150 150 128 128 95
+Infernape
+2 Fire Fighting
+183 171 135 171 135 176
+Flareon
+1 Fire
+172 200 123 161 178 128
+Rapidash
+1 Fire
+172 167 134 145 145 172
+Mr.Mime
+2 Psychic Fairy
+147 106 128 167 189 156
+Espeon
+1 Psychic
+172 128 123 200 161 178
+Alakazam
+1 Psychic
+162 112 106 205 161 189
